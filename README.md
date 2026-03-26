@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:0f172a&height=130&section=header&text=Khalid%20·%20Nissmo89&fontAlign=28&fontAlignY=52&fontSize=38&fontColor=f8fafc&desc=C%2FC%2B%2B%20systems%20programmer%20·%20building%20SyntaxFlow%20%26%20Nord_C%20·%20learning%20in%20public&descAlign=28&descAlignY=73&descSize=13&descColor=475569&stroke=06b6d4&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:0f172a&height=130&section=header&text=Khalid%20%2F%20Nissmo89&fontAlign=28&fontAlignY=52&fontSize=38&fontColor=f8fafc&desc=C%2FC%2B%2B%20systems%20programmer%20%E2%80%94%20building%20SyntaxFlow%20%2B%20Nord_C%20%E2%80%94%20learning%20in%20public&descAlign=28&descAlignY=73&descSize=13&descColor=475569&stroke=06b6d4&strokeWidth=2" />
 
 <br/>
 
