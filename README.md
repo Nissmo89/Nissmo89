@@ -38,7 +38,7 @@ ask_me   : nothing — still a noob 😅
 
 ---
 
-<div align="center"><sub>── STATS & CHARTS ──</sub></div>
+<div align="center"><sub>── STATS &amp; CHARTS ──</sub></div>
 
 <br/>
 
