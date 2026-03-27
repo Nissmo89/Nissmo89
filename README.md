@@ -65,7 +65,7 @@ ask_me   : nothing — still a noob 😅
 
 <!-- core stats + top langs -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nissmo89&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github" />&nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nissmo89&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&include_all_commits=true" />&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nissmo89&layout=donut&hide_border=true&theme=transparent&title_color=06b6d4&text_color=94a3b8&bg_color=0d1117&count_private=true" />
 </p>
 
