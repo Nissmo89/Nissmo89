@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:0f172a&height=130&section=header&text=Khalid%20%2F%20Nissmo89&fontAlign=28&fontAlignY=52&fontSize=38&fontColor=f8fafc&desc=C%2FC%2B%2B%20systems%20programmer%20%E2%80%94%20building%20SyntaxFlow%20%2B%20Nord_C%20%E2%80%94%20learning%20in%20public&descAlign=28&descAlignY=73&descSize=13&descColor=475569&stroke=06b6d4&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=160&section=header&text=Khalid%20%2F%20Nissmo89&fontAlign=50&fontAlignY=42&fontSize=42&fontColor=f8fafc&desc=C%20%2F%20C%2B%2B%20systems%20programmer%20%E2%80%94%20building%20SyntaxFlow%20%2B%20Nord_C%20%E2%80%94%20learning%20in%20public&descAlign=50&descAlignY=65&descSize=14&descColor=94a3b8&stroke=06b6d4&strokeWidth=2" />
 
 <br/>
 
@@ -6,7 +6,7 @@
 <tr>
 <td width="55%" valign="top">
 
-**About**
+<b>◈ About</b>
 
 ```yaml
 name     : Khalid / Nissmo89
@@ -19,7 +19,7 @@ ask_me   : nothing — still a noob 😅
 </td>
 <td width="45%" valign="top">
 
-**Links**&nbsp;&nbsp;
+<b>◈ Connect</b>&nbsp;&nbsp;
 <a href="https://discord.gg/khalid040624"><img src="https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 <a href="https://instagram.com/khalid00only"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:khalidimran7860q@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -27,7 +27,8 @@ ask_me   : nothing — still a noob 😅
 
 <br/><br/>
 
-**Tech**&nbsp;&nbsp;
+<b>◈ Stack</b>&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=c,cpp,cmake,python,rust,java,qt,mysql,sqlite,git,github,figma,linux&theme=dark&perline=7" />
 
 </td>
@@ -36,9 +37,15 @@ ask_me   : nothing — still a noob 😅
 
 <br/>
 
----
+<div align="center">
 
-<div align="center"><sub>── STATS &amp; CHARTS ──</sub></div>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=2&width=100%)
+
+<sub>◈&nbsp;&nbsp;STATS &amp; ACTIVITY&nbsp;&nbsp;◈</sub>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=2&width=100%)
+
+</div>
 
 <br/>
 
@@ -49,8 +56,8 @@ ask_me   : nothing — still a noob 😅
 
 <!-- pie charts row -->
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nissmo89&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nissmo89&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nissmo89&theme=github_dark" />&nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nissmo89&theme=github_dark" />&nbsp;
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nissmo89&theme=github_dark&utcOffset=5" />
 </p>
 
@@ -58,7 +65,7 @@ ask_me   : nothing — still a noob 😅
 
 <!-- core stats + top langs -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nissmo89&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nissmo89&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github" />&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nissmo89&layout=donut&hide_border=true&theme=transparent&title_color=06b6d4&text_color=94a3b8&bg_color=0d1117&count_private=true" />
 </p>
 
@@ -71,7 +78,7 @@ ask_me   : nothing — still a noob 😅
 
 <!-- streak -->
 <p align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Nissmo89&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=f8fafc&sideLabels=475569&dates=475569&currStreakNum=f8fafc&sideNums=94a3b8&stroke=0d1117" />
+  <img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=Nissmo89&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=475569&dates=475569&currStreakNum=f8fafc&sideNums=94a3b8&stroke=0d1117" />
 </p>
 
 <br/>
@@ -83,11 +90,15 @@ ask_me   : nothing — still a noob 😅
 
 <br/>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nissmo89&style=flat-square&color=0f172a&label=profile+views" />&nbsp;
-  <sub>· still figuring things out ·</sub>
-</p>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:06b6d4,100:0d1117&height=1&width=60%)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:0f172a&height=80&section=footer&reversal=true&stroke=06b6d4&strokeWidth=2" />
+<img src="https://komarev.com/ghpvc/?username=Nissmo89&style=flat-square&color=06b6d4&label=profile+views" />&nbsp;&nbsp;
+<sub>· still figuring things out ·</sub>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=100&section=footer&stroke=06b6d4&strokeWidth=2" />
