@@ -1,11 +1,8 @@
 name: Generate README
-
 on:
   push:
     branches: [main]
-    paths:
-      - 'README.source.md'
-      - '.github/workflows/readme-aura.yml'
+    paths: ['readme.source.md']
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
@@ -17,16 +14,32 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v5        # ✅ was @v4
+
+      - uses: actions/setup-node@v5      # ✅ was @v4
+        with:
+          node-version: '24'             # ✅ was '20'
+
+      - run: npm install -g readme-aura
 
       - name: Generate README
-        uses: collectioneur/readme-aura@main
-        with:
-          source: README.source.md
-          output: README.md
-          assets_dir: .github/assets
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: collectioneur
-          auto_commit: 'true'
-          commit_message: 'generate README via readme-aura'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          readme-aura build \
+            --source readme.source.md \
+            --output README.md \
+            --assets .github/assets \
+            --github-user ${{ github.repository_owner }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/assets
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: regenerate README via readme-aura"
+            git push
+          fi
