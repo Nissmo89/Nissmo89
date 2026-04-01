@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/home/nord/Downloads/Planet Orbit.gif" width="100%" alt="developer coding animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16002e,50:5b21b6,100:c084fc" width="100%" alt="developer coding animation"/>
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img align='left' height='220' style="margin-right:20px" src='./assets/programming.svg' alt='Mudar imagem'>
+      <img align='left' height='220' style="margin-right:20px" src='assets/programming.svg' alt='Mudar imagem'>
     </td>
   </tr>
 </table>
@@ -96,4 +96,10 @@
 
 ## Stats
 
-![](Nissmo89/profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
+
+
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16002e,50:5b21b6,100:c084fc&section=footer) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16002e,50:5b21b6,100:c084fc&section=footer "   width="100%" alt="developer coding animation"/>
+</div>
