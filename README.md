@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Nissmo+👋;Low+Level+Dev;Building+SyntaxFlow+%26+Nord_C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I%27m+Nissmo+%F0%9F%91%8B;Low+Level+Dev;Building+SyntaxFlow+%26+Nord_C" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -76,11 +76,11 @@
 
 
 <div align="center">
-  <img style="width:55%;" align="left" src="https://simobin-s-github-readme-stats.vercel.app/api?username=simobin&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=siMobin's%20stats&rank_icon=percentile&show_icons=true&icon_color=428EEE&ring_color=428EEE&show_owner=true&show=reviews,prs_merged_percentage" alt="shakibul islam mobin" />
-  <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Stamford-University-Bangladesh" alt="languages graph"/>
+  <img style="width:55%;" align="left" src="https://simobin-s-github-readme-stats.vercel.app/api?username=Nissmo89&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=Nissmo89's%20stats&rank_icon=percentile&show_icons=true&icon_color=428EEE&ring_color=428EEE&show_owner=true&show=reviews,prs_merged_percentage" alt="Something Crashed oops" />
+  <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/top-langs?username=Nissmo89&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Stamford-University-Bangladesh" alt="languages graph"/>
 
-  <img style="width:50%;" align="left" src="https://github-readme-streak-stats-ff-ten.vercel.app?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00&short_numbers=true&stroke=EBEBEB10" alt="siMobin's streak graph"/>
-  <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/wakatime?username=siMobin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&display_format=percent" alt="siMobin's streak graph"/>
+  <img style="width:50%;" align="left" src="https://github-readme-streak-stats-ff-ten.vercel.app?user=Nissmo89&theme=transparent&hide_border=true&fire=red&ring=ff9a00&short_numbers=true&stroke=EBEBEB10" alt="Nissmo's streak graph"/>
+    <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/wakatime?username=Nissmo89&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&display_format=percent" alt="siMobin's streak graph"/>
 
   <br clear="all" />
   <br /> 
