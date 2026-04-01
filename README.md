@@ -98,8 +98,8 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+---
 
-<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16002e,50:5b21b6,100:c084fc&section=footer) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16002e,50:5b21b6,100:c084fc&section=footer "   width="100%" alt="developer coding animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16002e,50:5b21b6,100:c084fc&section=footer" width="100%" alt="developer coding animation"/>
 </div>
