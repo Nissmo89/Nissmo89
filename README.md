@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img align='left' height='220' style="margin-right:20px" src='taffarel55/assets/programming.svg' alt='Mudar imagem'>
+      <img align='left' height='220' style="margin-right:20px" src='./assets/programming.svg' alt='Mudar imagem'>
     </td>
   </tr>
 </table>
