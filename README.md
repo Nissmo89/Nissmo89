@@ -57,6 +57,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
