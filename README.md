@@ -62,6 +62,8 @@
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![OpenGl](https://img.shields.io/badge/-OpenGl-000?&logo=OpenGl)
+
 
 ### Projects
 
